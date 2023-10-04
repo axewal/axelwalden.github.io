@@ -40,7 +40,7 @@
 	}
 </script>
 
-<html lang="en">
+<html lang="en" >
 	<body>
 		<div>
 			<form class="form-style-7" name="signin" id="signin" method="post">

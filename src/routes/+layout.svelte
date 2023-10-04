@@ -9,6 +9,7 @@
   <a href="/telltale">Telltale</a>
   <a href="/login">Login</a>
   <a href="/signup">Sign up</a>
+  <a href="/test">Test</a>
 
   <a
     target="_blank" rel="noreferrer"
