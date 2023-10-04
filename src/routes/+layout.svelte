@@ -7,6 +7,8 @@
   <a href="/">Hem</a>
   <a href="/memory">Memory</a>
   <a href="/telltale">Telltale</a>
+  <a href="/login">Login</a>
+  <a href="/signup">Sign up</a>
 
   <a
     target="_blank" rel="noreferrer"
